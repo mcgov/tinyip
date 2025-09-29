@@ -1,0 +1,21 @@
+# errant binaries
+*.test
+*.out
+
+# Generated files
+bin/
+dist/
+
+# Debug files
+debug
+
+# IDE specific files
+.vscode/
+
+# Certificate files
+*.pem
+*.key
+*.crt
+
+# Binary output for this project
+/myazip
